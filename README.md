@@ -20,8 +20,8 @@
     <td>Muhammad Saqlain</td>
   </tr>
   <tr>
-    <td>63986</td>
-    <td>Sidra Usman</td>
+    <td>63229</td>
+    <td>Bushra Liaquat Khan</td>
   </tr>
   <tr>
     <td>63986</td>
