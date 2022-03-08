@@ -44,6 +44,14 @@ My idea may lie in these aspects
 -> Strategy
 -> Maybe first person and third person
           
+### Bushra Liaquat Khan
+#### Virtual Reality Makeup Game:
+As a makeup enthusiast, I always wanted to create a reality based scenarios in which a player can select to do either clients makeup or participate in various competitions for e.g. if user has reached a higher level then competiting in fashion shows and dealing with doing models makeup would be a task and a good experience to manage time. 
+-> Time Management
+-> Virtual Reality
+-> Creativity
+-> Adventure
+-> Strategy
 
 </body>
 </html>
