@@ -13,7 +13,7 @@ using UnityEngine;
 
 public class LeftPlayer : MonoBehaviour {
 
-    private Rigidbody2D rigidBody;
+    public Rigidbody2D rigidBody;
     private Vector2 direction;
     public float speed = 10.0f;
 
