@@ -3,7 +3,7 @@
 ### By Muhammad Saqlain
 ### By Sidra Usman
 
----
+
 
 using System.Collections;
 
@@ -12,7 +12,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class LeftPlayer : MonoBehaviour
+
 {
+
     private Rigidbody2D rigidBody;
     private Vector2 direction;
     public float speed = 10.0f;
@@ -28,4 +30,4 @@ public class LeftPlayer : MonoBehaviour
         
     }
     
----
+
