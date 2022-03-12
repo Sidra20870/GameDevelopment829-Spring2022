@@ -53,5 +53,13 @@ As a makeup enthusiast, I always wanted to create a reality based scenarios in w
 -> Adventure
 -> Strategy
 
+### Muhammad Saqlain
+#### For Visually Impaired Or Blind Person
+#### Visual Fighter
+As a person who can not see the screen but hearing or feel anything which can play this game. In this game we have a Person which can collect a barbel letters which they can feel from touch sensor and if any enemy is far away 5cm or a mile away from them a beep sound can hear with the sentense like jump up, sit down, move fastly or slowly, shoot etc. Childs can learn a lot of words with enjoyment.
+-> Fight
+-> Strategy
+-> Creativity
+-> Scenes etc.
 </body>
 </html>
