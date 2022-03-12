@@ -9,7 +9,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 
-public class LeftPlayer : MonoBehaviour {
+public class LeftPlayer : MonoBehaviour 
 
     private Rigidbody2D rigidBody;
     private Vector2 direction;
