@@ -2,14 +2,11 @@
 ## Lab1-HelloWorldPong2DFile
 ### By Muhammad Saqlain
 ### By Sidra Usman
----
-using System.Collections;
 
-using System.Collections.Generic;
-
-using UnityEngine;
-
-public class LeftPlayer : MonoBehaviour 
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
+    public class LeftPlayer : MonoBehaviour {
 
     private Rigidbody2D rigidBody;
     private Vector2 direction;
@@ -25,6 +22,6 @@ public class LeftPlayer : MonoBehaviour
     {
         
     }
----
+
     
 
