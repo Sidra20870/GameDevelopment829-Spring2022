@@ -8,7 +8,7 @@
 5. Add friction to paddles so that the ball slows down if movement of paddle is in opposite direction to ball and speeds up if in same direction as ball movement. 
 ### By Muhammad Saqlain
 #### Ball.cs
-using System.Collections;
+    using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
 
