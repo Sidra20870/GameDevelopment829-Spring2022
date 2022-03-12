@@ -3,7 +3,7 @@
 ### By Muhammad Saqlain
 ### By Sidra Usman
 
-
+{
 using System.Collections;
 
 using System.Collections.Generic;
@@ -27,3 +27,4 @@ public class LeftPlayer : MonoBehaviour
     {
         
     }
+}
