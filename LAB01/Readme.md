@@ -1,5 +1,5 @@
 
-## Lab1-HelloWorldPong2DFile
+## Lab1-HelloWorldPong2D
 ### Tasks Perform
 1. W and S Keys for left paddle
 2. Up and Down keys for right Paddle
