@@ -7,7 +7,9 @@
 4. Ball Collision
 5. Add friction to paddles so that the ball slows down if movement of paddle is in opposite direction to ball and speeds up if in same direction as ball movement. 
 ### By Muhammad Saqlain
-### Ball.cs
+#### Ball.cs
+---
+
 ### By Sidra Usman
 #### Left Player
 
@@ -30,6 +32,7 @@
     {
         
     }
+---
 
 ### Complete Code
 #### Ball.cs
@@ -71,7 +74,8 @@
     {
         
     }
-}
+    }
+---
 
 #### Left Player.cs
     using System.Collections;
@@ -114,8 +118,8 @@
         if (direction.sqrMagnitude != 0)
             rigidBody.AddForce(direction * this.speed);
     }
-
-}
+    }
+---
 
 #### Right Player.cs
     using System.Collections;
@@ -158,6 +162,5 @@
         if (direction.sqrMagnitude != 0)
             rigidBody.AddForce(direction * this.speed);
     }
-
-}
+    }
 
