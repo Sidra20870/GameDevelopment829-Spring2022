@@ -10,7 +10,7 @@
 6. Display and update scores for both players.
 7. Reset the game once a player scores.
 8. Display the winning message.
-### By Muhammad Saqlain
+### By Sidra Usman
 #### Ball.cs
     using System.Collections;
     using System.Collections.Generic;
@@ -65,7 +65,7 @@
 
 ---
 
-### By Sidra Usman
+### By Muhammad Saqlain
 #### Game Manager
 
     using System.Collections;
