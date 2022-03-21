@@ -316,13 +316,14 @@
 
 ---
 
-#### Right Player.cs
+### By Bushra Liaquat Khan
+#### Right Player.
     using System.Collections;
-    using System.Collections.Generic;
-    using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine;
 
-    public class RightPlayer : MonoBehaviour
-    {
+public class RightPlayer : MonoBehaviour
+{
 
     private Rigidbody2D rigidBody;
     private Vector2 direction;
@@ -357,7 +358,8 @@
         if (direction.sqrMagnitude != 0)
             rigidBody.AddForce(direction * this.speed);
     }
-    }
+
+}
 
 
 
