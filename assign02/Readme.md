@@ -3,7 +3,7 @@
 <html>
 <head>
 </head>
-<body>\
+<body>
   <div style="background-color:black;color:white;padding:20px;"> 
     <h2>Assignment #2</h2>
 </div>
