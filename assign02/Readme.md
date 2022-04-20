@@ -11,11 +11,11 @@
 ## 15 Game Ideas:
 <h2>Bushra Liaquat Khan</h2>
 ### 5 Games Ideas:
-1. Living on the edge
-2. VR makeup studio
-3. Dragon Prince
-4. Deeseize
-5. Language First
+  1. Living on the edge
+  2. VR makeup studio
+  3. Dragon Prince
+  4. Deeseize
+  5. Language First
 
 ### Description of 3 selected Games:
 <h4 style="color: purple; font-weight: 600;">1. Living on the Edge:</h4>
