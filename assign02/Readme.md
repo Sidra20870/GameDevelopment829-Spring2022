@@ -59,14 +59,24 @@ In this game a person have some boards like easy, medium, hard and expert. A per
 ### 5 Games Ideas:
   
   1. Visual Fighter
-  2. Aeroplane Fighting
+  2. Aircraft Fighting
   3. Race on the pool
   4. Driving A Train
   5. Mapping Maths
   
 ### Description of 3 selected Games:
   
+#### 1. Visually Fighter
+
+This game for Visually Impaired Or Blind Person. As a person who can not see the screen but hearing or feel anything which can play this game. In this game we have a Person which can collect a barbel letters which they can feel from touch sensor and if any enemy is far away 5cm or a mile away from them a beep sound can hear with the sentense like jump up, sit down, move fastly or slowly, shoot etc. Childs can learn a lot of words with enjoyment.
+
+#### 2. Aircraft Fighting
+
+Create an Aircraft space which can have one gamer and 3 or 4 are enemies who can fight with the gamer. There is a space like sky which can a gamer person have to collect the coins, kill an enemy, avoid spectaculars etc. In every level we have such some border line to finish the game but when enemies come from the fron and kill the gamer or gamer touch his aircraft to spectaculars then it's mean the game is over.
+
+#### 3. Race on the pool
   
+In this game we have a big Swimming Pool which gamer person have to defeat other Swimmers. There is conduct a race between some people which can gamer swim and to cross the difficulties like rods, buckets etc as fast as possible.
 
 
 
