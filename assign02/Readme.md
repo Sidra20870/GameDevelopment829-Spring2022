@@ -4,7 +4,7 @@
 </head>
 <body>
   <div style="background-color:black;color:white;padding:20px;"> 
-    <h1>Assignment #2</h1>
+    ## Assignment 02: Generating the Game Ideas
 </div>
 
 ## 15 Game Ideas:
