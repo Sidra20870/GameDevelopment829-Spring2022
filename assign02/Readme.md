@@ -31,7 +31,7 @@
 <h4 style="color: purple; font-weight: 600;">4. Deeseize:</h4>
 <p>A strategy game in which it spreads awareness about the current deadly diseases in the world and also makes the player know all the symptoms of the disease with playing different levels.</p>
 
-<h4 style="color: purple; font-weight: 600;">5.LanguageFirst!:</h4>
+<h4 style="color: purple; font-weight: 600;">5. LanguageFirst!:</h4>
 <p>This game will let you select the desired language you want to learn and practice. Not only it will make you learn that language but also help in future so you can easily communicate with other people speaking that language.</p>
 
 ## Sidra Usman
@@ -46,11 +46,11 @@
   
 ### Description of 3 selected Games:
   
-#### Onion Person
+#### 1. Onion Person
   
 A small onion character has to find treasure and climbing on stairs and to fight for treasure from dragons, fire, aliens etc. But the strike is stairs is not stamd in one place it can move up and down or to break in pieces. He must to climb the stairs to pass the level. In this game we have multiple levels, scenarios and design towards low to hard.
   
-#### Sudoko Game
+#### 2. Sudoko Game
 
 In this game a person have some boards like easy, medium, hard and expert. A person can see the mathematical board of adding some values but the trick is in one board have small 9 boards which can have 9 values 1 - 9 but on 1 board no value can repeat, on 1 row and 1 column can not repeat the value as well. In this we have 3 mistakes are allowed to achieve the goal and kill the complete board.
 
