@@ -1,4 +1,3 @@
-# GameDevelopment829-Spring2022
 <!DOCTYPE html>
 <html>
 <head>
