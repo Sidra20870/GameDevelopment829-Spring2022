@@ -3,12 +3,7 @@
 <head>
 </head>
 <body>
-  <div style="background-color:black;color:white;padding:20px;"> 
-    
-    ## Assignment 02: Generating the Game Ideas
-    
-</div>
-
+## Assignment 02: Generating the Game Ideas
 ## 15 Game Ideas:
 <h2>Bushra Liaquat Khan</h2>
   
