@@ -54,6 +54,17 @@ A small onion character has to find treasure and climbing on stairs and to fight
 
 In this game a person have some boards like easy, medium, hard and expert. A person can see the mathematical board of adding some values but the trick is in one board have small 9 boards which can have 9 values 1 - 9 but on 1 board no value can repeat, on 1 row and 1 column can not repeat the value as well. In this we have 3 mistakes are allowed to achieve the goal and kill the complete board.
 
+## Muhammad Saqlain
+
+### 5 Games Ideas:
+  
+ 
+  
+### Description of 3 selected Games:
+  
+
+
+
 </body>
 </html>
 
