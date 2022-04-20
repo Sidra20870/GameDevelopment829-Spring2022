@@ -36,6 +36,15 @@
 
 ## Sidra Usman
 
+### 5 Games Ideas:
+  
+  1. Onion Person
+  2. Suduko Game
+  3. Virtual Reality Character Game
+  4. Murder Mystery Detective
+  5.
+  
+### Description of 3 selected Games:
 </body>
 </html>
 
