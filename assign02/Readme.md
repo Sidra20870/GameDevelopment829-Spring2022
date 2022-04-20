@@ -50,7 +50,7 @@
   
 A small onion character has to find treasure and climbing on stairs and to fight for treasure from dragons, fire, aliens etc. But the strike is stairs is not stamd in one place it can move up and down or to break in pieces. He must to climb the stairs to pass the level. In this game we have multiple levels, scenarios and design towards low to hard.
   
-#### 2. Sudoko Game
+#### 2. Suduko Game
 
 In this game a person have some boards like easy, medium, hard and expert. A person can see the mathematical board of adding some values but the trick is in one board have small 9 boards which can have 9 values 1 - 9 but on 1 board no value can repeat, on 1 row and 1 column can not repeat the value as well. In this we have 3 mistakes are allowed to achieve the goal and kill the complete board.
 
@@ -77,6 +77,24 @@ Create an Aircraft space which can have one gamer and 3 or 4 are enemies who can
 #### 3. Race on the pool
   
 In this game we have a big Swimming Pool which gamer person have to defeat other Swimmers. There is conduct a race between some people which can gamer swim and to cross the difficulties like rods, buckets etc as fast as possible.
+
+## Finalize 3 Ideas
+
+  1. Suduko Game
+  2. 
+  3. 
+
+### 1. Suduko Game
+
+We Can choose this game because in this the person can check his ability of mind and maths skills both. Easy to create a desktop and mobile app level game to create a boards by giving the random database. This idea may lie in these aspects Strategy -> Hash and Slash .
+  
+### 2.
+  
+### 3.
+
+## Game Design documents Link
+
+
 
 
 
