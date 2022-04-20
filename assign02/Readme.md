@@ -7,7 +7,8 @@
 ## Assignment 02: Generating the Game Ideas
   
 ## 15 Game Ideas:
-<h2>Bushra Liaquat Khan</h2>
+
+## Bushra Liaquat Khan
   
 ### 5 Games Ideas:
   
