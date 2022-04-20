@@ -12,7 +12,13 @@
 <h2>Bushra Liaquat Khan</h2>
   
 ### 5 Games Ideas:
-1. ddhhd
+  
+1. Living on the edge
+2. VR makeup studio
+3. Dragon Prince
+4. Deeseize
+5. Language First
+  
 ### Description of 3 selected Games:
 <h4 style="color: purple; font-weight: 600;">1. Living on the Edge:</h4>
 <p>The game starts with the player who participated in a Live TV show experiment where they test your minds and converts it into a challenging game. The Player first choose her name, team members and ONE super power. Once the tv show crew attach wires and other stuff to get the experiment started, the Player and its team members are found in an another dimensions where they have to complete each level and come back to life! While completing each level there are other teams competing with your team aswell so youve to be quick and very smart in taking decisions. If the team loses they are lost in the game forever.</p>
