@@ -3,7 +3,9 @@
 <head>
 </head>
 <body>
+  
 ## Assignment 02: Generating the Game Ideas
+  
 ## 15 Game Ideas:
 <h2>Bushra Liaquat Khan</h2>
   
