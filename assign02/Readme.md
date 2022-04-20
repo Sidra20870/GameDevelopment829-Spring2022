@@ -84,13 +84,13 @@ In this game we have a big Swimming Pool which gamer person have to defeat other
   2. 
   3. 
 
-### 1. Suduko Game
+#### 1. Suduko Game
 
 We Can choose this game because in this the person can check his ability of mind and maths skills both. Easy to create a desktop and mobile app level game to create a boards by giving the random database. This idea may lie in these aspects Strategy -> Hash and Slash .
   
-### 2.
+#### 2.
   
-### 3.
+#### 3.
 
 ## Game Design documents Link
 
