@@ -64,6 +64,6 @@ As a person who can not see the screen but hearing or feel anything which can pl
 
 ### Kanza Ahmad Nawaz
 #### Murder on the daylight
-A murder mystery game connecting two people online one being a murderer other as an investigator. Having the proper graphics, murderer on his end is given the motive to kill someone, like in GTA and on the other hand investigator is informed about the murder. Now murderer has to hide and investigator has to search for the murderer in a given time. Idea is to create aesthetic graphics for both ends so that the game doesn't get boring.
+A murder mystery game connecting two people online one being a murderer other as an investigator. Having the proper graphics, murderer on his end is given the motive to kill someone, like in GTA and on the other hand investigator is informed about the murder. Now murderer has to hide and investigator has to search for the murderer in a given time. Idea is to create aesthetic graphics for both ends so that the game doesn't get boring. In the end the two of them faces each other and a fight takes place to decide the actual winner.
 </body>
 </html>
