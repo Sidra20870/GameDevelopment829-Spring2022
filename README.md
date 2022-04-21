@@ -32,6 +32,10 @@
     <td>Sidra Usman</td>
   </tr>
             
+<tr>
+    <td>63178</td>
+    <td>Kanza Ahmad Nawaz</td>
+  </tr>
 </table>
 
 ## Game Idea
