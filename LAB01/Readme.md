@@ -206,6 +206,31 @@
 
     }
 
+### Kanza Ahmad Nawaz
+#### LeftPlayer.cs 
+     
+      // Update is called once per frame
+    void Update()
+    {
+
+        if (Input.GetKey(KeyCode.S))
+            direction = Vector2.down;
+        else if (Input.GetKey(KeyCode.W))
+            direction = Vector2.up;
+        else
+            direction = Vector2.zero;
+        
+    }
+
+    void FixedUpdate()
+    {
+        if (direction.sqrMagnitude != 0)
+            rigidBody.AddForce(direction * this.speed);
+    }
+
+}
+
+
 
 
 ### Video Of Task
