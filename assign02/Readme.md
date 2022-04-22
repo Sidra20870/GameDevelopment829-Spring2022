@@ -78,6 +78,23 @@ Create an Aircraft space which can have one gamer and 3 or 4 are enemies who can
   
 In this game we have a big Swimming Pool which gamer person have to defeat other Swimmers. There is conduct a race between some people which can gamer swim and to cross the difficulties like rods, buckets etc as fast as possible.
 
+## Kanza Ahmad Nawaz
+
+### 5 Game Ideas:
+
+    1. Murder on the daylight 
+    2. Anime league 
+    3. Our own Gotham City
+    4. Swings on VR
+    5. VR hide & seek
+
+### Description of 3 selected games:
+
+#### 1. Murder on the daylight:
+
+A murder mystery game connecting two people online one being a murderer other as an investigator. Having the proper graphics, murderer on his end is given the motive to kill someone, like in GTA and on the other hand investigator is informed about the murder. Now murderer has to hide and investigator has to search for the murderer in a given time. Idea is to create aesthetic graphics for both ends so that the game doesn't get boring. In the end the two of them faces each other and a fight takes place to decide the actual winner.
+
+
 ## Finalize 3 Ideas
 
   1. Suduko Game
