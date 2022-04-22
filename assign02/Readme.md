@@ -106,14 +106,16 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
 ## Finalize 3 Ideas
 
   1. Suduko Game
-  2. 
+  2. Anime League
   3. 
 
 #### 1. Suduko Game
 
 We Can choose this game because in this the person can check his ability of mind and maths skills both. Easy to create a desktop and mobile app level game to create a boards by giving the random database. This idea may lie in these aspects Strategy -> Hash and Slash .
   
-#### 2.
+#### 2. Anime League 
+
+This game can become very famous in the market since there are a lot of huge anime fans are out there. This can be the product of success with very low chances of failure. 
   
 #### 3.
 
