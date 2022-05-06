@@ -42,7 +42,7 @@
   2. Suduko Game
   3. Virtual Reality Character Game
   4. Murder Mystery Detective
-  5.
+  5. Maze Game
   
 ### Description of 3 selected Games:
   
@@ -53,6 +53,10 @@ A small onion character has to find treasure and climbing on stairs and to fight
 #### 2. Suduko Game
 
 In this game a person have some boards like easy, medium, hard and expert. A person can see the mathematical board of adding some values but the trick is in one board have small 9 boards which can have 9 values 1 - 9 but on 1 board no value can repeat, on 1 row and 1 column can not repeat the value as well. In this we have 3 mistakes are allowed to achieve the goal and kill the complete board.
+
+#### 3. Maze Game
+
+In this game we have a scenrio like walls around the corners, we have a third person shooter that search a path between these walls to complete the game and to arrive the finish line from getting out of between these walls, simple is that the person search the path which he wants to go.
 
 ## Muhammad Saqlain
 
@@ -107,7 +111,7 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
 
   1. Suduko Game
   2. Anime League
-  3. 
+  3. Maze Game
 
 #### 1. Suduko Game
 
@@ -117,7 +121,9 @@ We Can choose this game because in this the person can check his ability of mind
 
 This game can become very famous in the market since there are a lot of huge anime fans are out there. This can be the product of success with very low chances of failure. 
   
-#### 3.
+#### 3. Maze Game
+  
+It is easy to learn but not easy to make this game and it is famous among all childrens but we can make it aunique style. We can learn more to make the difficult paths for the user.
 
 ## Game Design documents Link
 
