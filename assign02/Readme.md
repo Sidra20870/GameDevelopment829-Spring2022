@@ -28,12 +28,6 @@
 <h4 style="color: purple; font-weight: 600;">3. Dragon Prince:</h4>
 <p>Two Kingdoms i.e: Magical Kingdom and Human Kingdom. Magic comes from the primal sources: sun, moon, stars, sky, earth and ocean in the magical kingdom. The mages in the human kingdom creater another magic know as dark magic which is made with consuming the magical powers of the magical creatures. The mages destroy the relation between the magical kingdom and a war has begun. The mages have captured the dragon egg and killed the Dragon King. This egg is the only possible way to restore the balance between the two kingdoms. Role playing game in  which the Player has to steal the egg from the mages and bring it back to the magical world but the queen is dying which keeps the magical world alive and soon it will be all chaos if the mages takes over the kingdom. </p>
 
-<h4 style="color: purple; font-weight: 600;">4. Deeseize:</h4>
-<p>A strategy game in which it spreads awareness about the current deadly diseases in the world and also makes the player know all the symptoms of the disease with playing different levels.</p>
-
-<h4 style="color: purple; font-weight: 600;">5. LanguageFirst!:</h4>
-<p>This game will let you select the desired language you want to learn and practice. Not only it will make you learn that language but also help in future so you can easily communicate with other people speaking that language.</p>
-
 ## Sidra Usman
 
 ### 5 Games Ideas:
