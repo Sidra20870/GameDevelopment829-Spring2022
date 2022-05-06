@@ -50,7 +50,7 @@
 ---
 
 ### By Sidra Usman & Kanza Nawaz
-#### Left Player
+#### Left Player.cs
 
     using System.Collections;
     using System.Collections.Generic;
@@ -95,8 +95,8 @@
     }
 ---
 ### By Bushra Liaquat Khan & Riba
-#### Right Player
-using System.Collections;
+#### Right Player.cs
+    using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
 
