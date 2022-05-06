@@ -82,11 +82,11 @@ In this game we have a big Swimming Pool which gamer person have to defeat other
 
 ### 5 Game Ideas:
 
-    1. Murder on the daylight 
-    2. Anime league 
-    3. Our own Gotham City
-    4. Swings on VR
-    5. VR hide & seek
+   1. Murder on the daylight 
+   2. Anime league 
+   3. Our own Gotham City
+   4. Swings on VR
+   5. VR hide & seek
 
 ### Description of 3 selected games:
 
