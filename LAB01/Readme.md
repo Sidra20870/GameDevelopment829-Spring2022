@@ -55,7 +55,9 @@
     using System.Collections;
     using System.Collections.Generic;
     using UnityEngine;
-    public class LeftPlayer : MonoBehaviour {
+
+    public class LeftPlayer : MonoBehaviour
+    {
 
     private Rigidbody2D rigidBody;
     private Vector2 direction;
@@ -71,25 +73,26 @@
     {
         
     }
+
     // Update is called once per frame
-void Update()
-{
+    void Update()
+    {
 
-    if (Input.GetKey(KeyCode.S))
-        direction = Vector2.down;
-    else if (Input.GetKey(KeyCode.W))
-        direction = Vector2.up;
-    else
-        direction = Vector2.zero;
-    
-}
+        if (Input.GetKey(KeyCode.S))
+            direction = Vector2.down;
+        else if (Input.GetKey(KeyCode.W))
+            direction = Vector2.up;
+        else
+            direction = Vector2.zero;
+        
+    }
 
-void FixedUpdate()
-{
-    if (direction.sqrMagnitude != 0)
-        rigidBody.AddForce(direction * this.speed);
-}
-}
+    void FixedUpdate()
+    {
+        if (direction.sqrMagnitude != 0)
+            rigidBody.AddForce(direction * this.speed);
+    }
+    }
 ---
 
 ### Complete Code
