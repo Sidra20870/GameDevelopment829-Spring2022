@@ -101,6 +101,31 @@ Some missions are assigned based on their powers and abilities, meanwhile scorin
 
 I want to create a Karachi based Battle Royal kind of game. In which places like Saddar, kharadar etc are given the aesthetic Gotham City look, following its dark theme and rainy weather creates a more intense look. Idea focuses on amazing Gotham themes applied on usual battle royal games
 
+## Riba Zainab
+
+### 5 Game Ideas:
+
+   1. Murder on the daylight 
+   2. Anime league 
+   3. Our own Gotham City
+   4. Swings on VR
+   5. VR hide & seek
+
+### Description of 3 selected games:
+
+#### 1. Murder on the daylight:
+
+A murder mystery game connecting two people online one being a murderer other as an investigator. Having the proper graphics, murderer on his end is given the motive to kill someone, like in GTA and on the other hand investigator is informed about the murder. Now murderer has to hide and investigator has to search for the murderer in a given time. Idea is to create aesthetic graphics for both ends so that the game doesn't get boring. In the end the two of them faces each other and a fight takes place to decide the actual winner.
+
+#### 2. Anime League:
+
+Idea is to create famous Anime compilation based game throughout the era. In which famous anime such a DBZ, Naruto, koichi, ghouls, Kira, L,  Levi, uchiha and many more characters are included. To all of them
+Some missions are assigned based on their powers and abilities, meanwhile scoring and other stuffs are done too. This game has a simple concept but it is heavy, sacred and emotional for anyone who stan anime.
+
+#### 3.Owr Own Gotham City:
+
+I want to create a Karachi based Battle Royal kind of game. In which places like Saddar, kharadar etc are given the aesthetic Gotham City look, following its dark theme and rainy weather creates a more intense look. Idea focuses on amazing Gotham themes applied on usual battle royal games
+
 ## Finalize 3 Ideas
 
   1. Suduko Game
