@@ -12,6 +12,8 @@
 8. End Path
 
 ### Assets Link
+https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/Assign3/Assets
+
 1. Materials of background and walls
 2. Models of walls and person
 3. Buttons
@@ -25,3 +27,5 @@
 
 ### Sketches Of Our Game
 
+![WhatsApp Image 2022-05-07 at 10 08 17 AM](https://user-images.githubusercontent.com/61619271/167239378-de271696-c642-41f2-a153-a85240763626.jpeg)
+![WhatsApp Image 2022-05-07 at 10 08 10 AM](https://user-images.githubusercontent.com/61619271/167239375-1eae2469-10f6-414e-a46e-d110b28de662.jpeg)
