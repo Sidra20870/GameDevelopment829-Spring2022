@@ -105,7 +105,7 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
 
 ### 5 Game Ideas:
 
-   1. Murder on the daylight 
+   1. The room puzzle
    2. Anime league 
    3. Our own Gotham City
    4. Swings on VR
@@ -113,9 +113,9 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
 
 ### Description of 3 selected games:
 
-#### 1. Murder on the daylight:
+#### 1. The room puzzle:
 
-A murder mystery game connecting two people online one being a murderer other as an investigator. Having the proper graphics, murderer on his end is given the motive to kill someone, like in GTA and on the other hand investigator is informed about the murder. Now murderer has to hide and investigator has to search for the murderer in a given time. Idea is to create aesthetic graphics for both ends so that the game doesn't get boring. In the end the two of them faces each other and a fight takes place to decide the actual winner.
+The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box..
 
 #### 2. Anime League:
 
