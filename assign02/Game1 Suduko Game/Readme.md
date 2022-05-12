@@ -13,60 +13,41 @@
 Sudoku is one of the most popular puzzle games of all time. The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9. As a logic puzzle, Sudoku is also an excellent brain game. If you play Sudoku daily, you will soon start to see improvements in your concentration and overall brain power.
 ## 💵MONETIZATION:
 Yes, we have a plan for the future to monetize a game that is we do App Ads between playing a game but we think it is a little bit annoying so we can make a purchase model like subscription for those users who have interest in playing a game. This monetization model can use to generate revenue from a game product.
-## STORY:
-The story of a maze game is that users have a third person character and have multiple paths which we make with glass walls. There is no big story in this game just to find the secret path between the glass walls.
 ## GAMEPLAY:
-3D maze Game is a logic game that will help you to pass the time to find interesting and secret paths. A maze is a path or collection of paths, typically from an entrance to a goal. 
+The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, row, and 3×3 section contain the numbers between 1 to 9. At the beginning of the game, the 9×9 grid will have some of the squares filled in. Your job is to use logic to fill in the missing digits and complete the grid. 
 #### Object of the game: 
-The object of the game is to get your maze runner through your maze collecting the sprites (paths) before the clock runs out of time
+In this we have a grid view objects, numbers as a asset and calculation as a scripts.
 #### Target Goal:
-A maze is a type of puzzle game where a player moves in complex and branched passages to find a particular target or location. 
+The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, row, and 3×3 section contain the numbers between 1 to 9. At the beginning of the game, the 9×9 grid will have some of the squares filled in. Your job is to use logic to fill in the missing digits and complete the grid.
+Don’t forget, a move is incorrect if:
+- Any row contains more than one of the same number from 1 to 9
+- Any column contains more than one of the same number from 1 to 9
+- Any 3×3 grid contains more than one of the same number from 1 to 9
 ## Features / Game Elements:
-A maze is a structure surrounded by walls with numerous paths and passages, making it difficult for anyone to pass from one end of the maze to the other. Just like the actual maze, so we will develop a game which will have big walls as border to create confusion for the player.
-1. First of all, you have to create the 3D plane on which the entire maze will reside.
-2. Add materials and color to the game objects.
-3. Add Third Person CHaracter and fit the camera with it
-4. To add the walls (3D cubes), go to GameObject menu → 3D object → Cube.
-5. Then add materials and texture on it.
-6. Now adjust the size of the cube/wall according to your Character size (probably little bit larger than the size of the Character), increase the scale of Y coordinate or keeping Y coordinate intact, increase the X coordinate.
-7. Design the maze structure by arranging the cubes on the 3D Plane, making the whole setup just like a maze.
-8. We can use images & texture to make the maze walls and the 3D plane look more realistic.
-9. You can download the wall texture (which is basically an image) and add it to the Assets pane by directly dragging the image from your desktop and dropping it onto any folder in the Asset pane.
-10. Now, select that texture asset and drag it onto the walls to give your wall, a wall type look and the plane, a glassy feels.
-11. Add Prefabs for what we doing multiple times.
-12. Add sound features using download online sound in assets.
-13. Add scripts for target the goal and move the character.
-14. Add Animation in character.
-15. Run the game using the play button.
+Sudoku is a fun puzzle game once you get the hang of it. At the same time, learning to play Sudoku can be a bit intimidating for beginners. So, if you are a complete beginner, here are a few Sudoku tips that you can use to improve your Sudoku skills.<br>
+
+<b>Tip 1:</b> Look for rows, columns of 3×3 sections that contain 5 or more numbers. Work through the remaining empty cells, trying the numbers that have not been used. In many cases, you will find numbers that can only be placed in one position considering the other numbers that are already in its row, column, and 3×3 grid.<br>
+  <b>Tip 2: </b> Break the grid up visually into 3 columns and 3 rows. Each large column will have 3, 3×3 grids and each row will have 3, 3×3 grids. Now, look for columns or grids that have 2 of the same number. Logically, there must be a 3rd copy of the same number in the only remaining 9-cell section. Look at each of the remaining 9 positions and see if you can find the location of the missing number.
 
 ## 👤 CHARACTERS:
-Only one character to play this game using third person strategy.
-## 🗺 LOCATIONS
-In this game we have only 1 type of location that is the world to make with a glass walls and change the walls by upgrading the level of the game.
+No Character in this game it is just a strategy , hash & slash game.
+
 ## 🏆 LEVELS / MISSIONS
-There is only 2 levels of the game <br>
-<b> Level 1 :</b> It is the easy level of our game there is only 60 to 80 sec of time limit and there is no hard walls to get a goal. User easily find the path in this time limit. <br>
-<b> Level 2: </b> In this we can make a complicated path by using the walls to get confuse the user but we have a 120 sec of time limit that user identify his goal perfectly.<br>
-<b> Mission: </b>  To identify the secret path to win a game.
+There is 3 level of the game <br>
+<b>1. Easy level: </b> In this we provide more of the numbers in the board that user identify the matching numbers quickly.
+<b>2. Hard Level: </b> In this we provide only 7 or 8 number that user get difficulty to identify the matching numbers.
+<b>3. Extreme Level: </b> In this we just provide 2 or 4 numbers that user get to know the numbers hardly and use the brain with more effort.
 
 ## 📦 Scenes / Objects
-There is 2 scenes as level1 and level 2, and for objects we have a character , walls, paths, times etc.
-
-## ASSETS 
+There is only one scene as a grid box but in real there are alot of hidden scene which provide random guessing numbers.
 
 ## 🎨 ART
-As using texture on the wall and character and using material on the scenes as well.
+As using texture on the grid box and using material on the scenes as well.
 ## 🏃‍ ANIMATION
-1. Crouch
-2. Jump Up
-3. Jump Fall
-4. Turn Right
-5. Turn Left
-6. Turn Sharp
-7. Mid Air
+1. putting the number
 
 ## Links
-1. https://www.playworks.org/resource/game-of-the-week-the-maze-game/
-2. https://www.studytonight.com/3d-game-engineering-with-unity/maze-game
-3. https://apps.apple.com/us/app/puzzle-maze-games-3d/id1531864690
+1. https://sudoku.com/
+2. https://www.rd.com/list/sudoku-tips/
+3. https://www.sudokuonline.io/tips/sudoku-rules
 
