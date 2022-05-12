@@ -21,7 +21,7 @@ The story of a maze game is that users have a third person character and have mu
 The object of the game is to get your maze runner through your maze collecting the sprites (paths) before the clock runs out of time
 #### Target Goal:
 A maze is a type of puzzle game where a player moves in complex and branched passages to find a particular target or location. 
-#### Features 
+## Features / Game Elements:
 A maze is a structure surrounded by walls with numerous paths and passages, making it difficult for anyone to pass from one end of the maze to the other. Just like the actual maze, so we will develop a game which will have big walls as border to create confusion for the player.
 1. First of all, you have to create the 3D plane on which the entire maze will reside.
 2. Add materials and color to the game objects.
@@ -38,4 +38,21 @@ A maze is a structure surrounded by walls with numerous paths and passages, maki
 13. Add scripts for target the goal and move the character.
 14. Add Animation in character.
 15. Run the game using the play button.
+
+## 👤 CHARACTERS:
+Only one character to play this game using third person strategy.
+## 🗺 LOCATIONS
+In this game we have only 1 type of location that is the world to make with a glass walls and change the walls by upgrading the level of the game.
+## 🏆 LEVELS / MISSIONS
+There is only 2 levels of the game 
+<b> Level 1 </b>
+📦 OBJECTS
+Abc
+ 
+ASSETS (no need to write anything on this heading.)
+Here is where you will include all of the assets needed as well as brief descriptions.
+🎨 ART
+abc
+🏃‍ ANIMATION
+abc
 
