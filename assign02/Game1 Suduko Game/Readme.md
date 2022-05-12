@@ -34,8 +34,8 @@ No Character in this game it is just a strategy , hash & slash game.
 
 ## 🏆 LEVELS / MISSIONS
 There is 3 level of the game <br>
-<b>1. Easy level: </b> In this we provide more of the numbers in the board that user identify the matching numbers quickly.
-<b>2. Hard Level: </b> In this we provide only 7 or 8 number that user get difficulty to identify the matching numbers.
+<b>1. Easy level: </b> In this we provide more of the numbers in the board that user identify the matching numbers quickly.<br>
+<b>2. Hard Level: </b> In this we provide only 7 or 8 number that user get difficulty to identify the matching numbers.<br>
 <b>3. Extreme Level: </b> In this we just provide 2 or 4 numbers that user get to know the numbers hardly and use the brain with more effort.
 
 ## 📦 Scenes / Objects
