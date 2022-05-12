@@ -46,15 +46,26 @@ In this game we have only 1 type of location that is the world to make with a gl
 ## 🏆 LEVELS / MISSIONS
 There is only 2 levels of the game <br>
 <b> Level 1 :</b> It is the easy level of our game there is only 60 to 80 sec of time limit and there is no hard walls to get a goal. User easily find the path in this time limit. <br>
-<b> Level 2: <b> In this we can make a complicated path by using the walls to get confuse the user but we have a 120 sec of time limit that user identify his goal perfectly.
- 
-📦 OBJECTS
-Abc
- 
-ASSETS (no need to write anything on this heading.)
-Here is where you will include all of the assets needed as well as brief descriptions.
-🎨 ART
-abc
-🏃‍ ANIMATION
-abc
+<b> Level 2: </b> In this we can make a complicated path by using the walls to get confuse the user but we have a 120 sec of time limit that user identify his goal perfectly.<br>
+<b> Mission: </b>  To identify the secret path to win a game.
 
+## 📦 Scenes / Objects
+There is 2 scenes as level1 and level 2, and for objects we have a character , walls, paths, times etc.
+
+## ASSETS 
+
+## 🎨 ART
+As using texture on the wall and character and using material on the scenes as well.
+## 🏃‍ ANIMATION
+1. Crouch
+2. Jump Up
+3. Jump Fall
+4. Turn Right
+5. Turn Left
+6. Turn Sharp
+7. Mid Air
+
+## Links
+1. https://www.playworks.org/resource/game-of-the-week-the-maze-game/
+2. https://www.studytonight.com/3d-game-engineering-with-unity/maze-game
+3. https://apps.apple.com/us/app/puzzle-maze-games-3d/id1531864690
