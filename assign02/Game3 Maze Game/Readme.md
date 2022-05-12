@@ -44,8 +44,10 @@ Only one character to play this game using third person strategy.
 ## 🗺 LOCATIONS
 In this game we have only 1 type of location that is the world to make with a glass walls and change the walls by upgrading the level of the game.
 ## 🏆 LEVELS / MISSIONS
-There is only 2 levels of the game 
-<b> Level 1 </b>
+There is only 2 levels of the game <br>
+<b> Level 1 :</b> It is the easy level of our game there is only 60 to 80 sec of time limit and there is no hard walls to get a goal. User easily find the path in this time limit. <br>
+<b> Level 2: <b> In this we can make a complicated path by using the walls to get confuse the user but we have a 120 sec of time limit that user identify his goal perfectly.
+ 
 📦 OBJECTS
 Abc
  
