@@ -1,4 +1,4 @@
-# Game Design Document - Suduko Game
+# Game Design Document - Maze Game
 ## 🎮️ NAME OF GAME:
 ### Maze Game
 ## 👥 STAKEHOLDERS:
