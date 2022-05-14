@@ -147,7 +147,7 @@ It is easy to learn but not easy to make this game and it is famous among all ch
 ## Game Design documents Link
 1. https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/assign02/Game1%20Suduko%20Game
 2. https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/assign02/Game2%20Anime%20League
-3. 
+3. https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/assign02/Game3%20Maze%20Game
 
 
 
