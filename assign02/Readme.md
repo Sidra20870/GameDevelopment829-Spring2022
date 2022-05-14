@@ -105,26 +105,24 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
 
 ### 5 Game Ideas:
 
-   1. The room puzzle
-   2. Anime league 
-   3. Our own Gotham City
-   4. Swings on VR
-   5. VR hide & seek
+   1. Role Playing Game
+   2. Airplane driving 
+   3. Physics Game
+
 
 ### Description of 3 selected games:
 
-#### 1. The room puzzle:
+#### 1. Role Playing Game:
+In the Role Playing Game, the users will be a certain character of your game, and they will experience the journey of that player. Most of the RPG games have magic, swords, or fighting, and are very interesting and fun to play.
 
-The Room is a puzzle video game The room is a 3D video game and in this game, initially, 4 puzzle boxes are presented to the players. In the first box,  you will find a tutorial about how to move around the box and how to interact with the features of the box..
+#### 2. Airplane driving:
+Create an airplane driving gaming application and give children a chance to feel like pilots. Yes, it can really be a big hit. Provide clear audio instructions so that they can play the game well with their little tiny hands.
 
-#### 2. Anime League:
 
-Idea is to create famous Anime compilation based game throughout the era. In which famous anime such a DBZ, Naruto, koichi, ghouls, Kira, L,  Levi, uchiha and many more characters are included. To all of them
-Some missions are assigned based on their powers and abilities, meanwhile scoring and other stuffs are done too. This game has a simple concept but it is heavy, sacred and emotional for anyone who stan anime.
+#### 3. Physics Game:
+A game that implies, uses and demonstrates the properties of physics and how to learn them in a fun way. Provide facts and other theories of physics to the users so that they can fall in love with physics, and in turn with your game.
 
-#### 3.Owr Own Gotham City:
 
-I want to create a Karachi based Battle Royal kind of game. In which places like Saddar, kharadar etc are given the aesthetic Gotham City look, following its dark theme and rainy weather creates a more intense look. Idea focuses on amazing Gotham themes applied on usual battle royal games
 
 ## Finalize 3 Ideas
 
