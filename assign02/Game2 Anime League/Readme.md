@@ -1,5 +1,6 @@
 Game Design Document - Anime League
 🎮️ NAME OF GAME:
+
 Anime League
 👥 STAKEHOLDERS:
 Developer: Muhammad Saqlain & Kanza Nawaz
