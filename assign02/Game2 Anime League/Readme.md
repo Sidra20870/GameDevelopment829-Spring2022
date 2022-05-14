@@ -1,31 +1,30 @@
-Game Design Document - Anime League
-🎮️ NAME OF GAME:
-
-Anime League
-👥 STAKEHOLDERS:
-Developer: Muhammad Saqlain & Kanza Nawaz
-Design: Riba, Bushra & Sidra
-QA: Muhammad Saqlain
-OVER VIEW
-📐 PROJECT SCOPE
-Budget: Internet Cost
-Timeline: 3 Months
-🗣️ELEVATOR PITCH
+# Game Design Document - Anime League
+## 🎮️ NAME OF GAME:
+### Anime League
+## 👥 STAKEHOLDERS:
+#### Developer: Muhammad Saqlain & Kanza Nawaz
+#### Design: Riba, Bushra & Sidra
+#### QA: Muhammad Saqlain
+## OVER VIEW
+## 📐 PROJECT SCOPE
+##### Budget: Internet Cost
+##### Timeline: 3 Months
+## 🗣️ELEVATOR PITCH
 idea is to compile all famous anime characters and create their some kind of league in which the mission is provided and they have a target set to accomplish.Person playing the game is allowed to choose its favourite character.
 
-💵MONETIZATION:
+## 💵MONETIZATION:
 Yes, we have a plan for the future to monetize a game that is we do App Ads between playing a game but we think it is a little bit annoying so we can make a purchase model like subscription for those users who have interest in playing a game. This monetization model can use to generate revenue from a game product.
 
-GAMEPLAY:
+## GAMEPLAY:
 This game is likely more focused on the audience who stan anime only they can understand the worth of this game, the goal is to fulfil the wish of seeing all characters at once. this game will 
 
-Object of the game:
+#### Object of the game:
 At initial levels side characters are unlocked for the player and to which some mission is provided, when player completes the mission some coins are provided as a reward which will help the player to unlock different characters. player can also buy the character using the actual money.
 
-Target Goal:
+#### Target Goal:
 The goal of this game is to collect as much coins as you can using some fighting skills and solving missions to unlock your favourite character.
 
-Features / Game Elements:
+## Features / Game Elements:
 Games that includes fighting and missions need a proper and large area mapped. Inluding proper fields, countries, cities. In this game surroundings matter a lot, it should be designed beautifully to provide an amazing view.
 
 1. the first thing we should focus on is the location of the game and its mapping with the 3D plane.
@@ -47,20 +46,20 @@ Games that includes fighting and missions need a proper and large area mapped. I
 
 
 
-👤 CHARACTERS:
+## 👤 CHARACTERS:
 multiple characters can play this game using third person strategy.
 
-🗺 LOCATIONS
+## 🗺 LOCATIONS
 including all cities of Japan.
 
-🏆 LEVELS / MISSIONS
+## 🏆 LEVELS / MISSIONS
 There is 3 level of the game
 levels are increased from easier to harder based on the previously completed missions
 
-📦 Scenes / Objects
+## 📦 Scenes / Objects
 There are various scenes included in the game since it is based on a mission in different locations.
 
-🎨 ART
+#### 🎨 ART
 using texture, colours, sounds in creating beautifully developed citites, providng rain, snow, cherryblossoms kind of weathers, providing emotions and expressions to anime characters. Art as in development and attatchment of feelings and emotions.
 
 🏃‍ ANIMATION
