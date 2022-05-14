@@ -71,6 +71,7 @@ There is 2 scenes as level1 and level 2, and for objects we have a character , w
 ## ASSETS 
 https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/Assign3/Assets 
 https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/Assign3/Game%20Sound
+https://github.com/Sidra20870/GameDevelopment829-Spring2022/tree/main/Assign3/Scenes
 
 1. Materials of background and walls
 2. Models of walls and person
@@ -89,7 +90,7 @@ As using texture on the wall and character and using material on the scenes as w
 5. Turn Left
 6. Turn Sharp
 7. Mid Air
-
+## Video of Our Game
 ## Sketches Of Our Game
 
 ![WhatsApp Image 2022-05-07 at 10 08 17 AM](https://user-images.githubusercontent.com/61619271/167239378-de271696-c642-41f2-a153-a85240763626.jpeg)
