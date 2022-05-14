@@ -108,6 +108,8 @@ I want to create a Karachi based Battle Royal kind of game. In which places like
    1. Role Playing Game
    2. Airplane driving 
    3. Physics Game
+   4. Euro Game
+   5. Get the Treasure 
 
 
 ### Description of 3 selected games:
