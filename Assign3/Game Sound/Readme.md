@@ -1,7 +1,7 @@
 
 ## Game Sound Code
-using UnityEngine;
-using System.Collections;
+    using UnityEngine;
+    using System.Collections;
 
     public class Sound : MonoBehaviour
     {
@@ -17,5 +17,4 @@ using System.Collections;
         {
             audioData.Pause();
         }
-    }
-}
+    } }
